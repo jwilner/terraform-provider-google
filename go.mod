@@ -27,9 +27,9 @@ require (
 	github.com/spf13/pflag v1.0.3 // indirect
 	github.com/stoewer/go-strcase v1.0.2
 	github.com/zclconf/go-cty v1.5.1 // indirect
-	golang.org/x/net v0.0.0-20200822124328-c89045814202
-	golang.org/x/oauth2 v0.0.0-20200902213428-5d25da1a8d43
-	google.golang.org/api v0.34.0
+	golang.org/x/net v0.0.0-20210119194325-5f4716e94777
+	golang.org/x/oauth2 v0.0.0-20210220000619-9bb904979d93
+	google.golang.org/api v0.41.0
 	gopkg.in/yaml.v2 v2.2.8 // indirect
 )
 
